@@ -7,3 +7,5 @@ These information are then stored to the database. Then for every content we
 produce a small summary and then we show all the information to our website.
 We use Beautifulsoup4 for collecting news and for producing summary we use 
 NLTK module for summarizing the news content. 
+
+Used Tools: Python, Django, Beautifulsoup4, NLTK,Bootstrap 4, HTML,CSS. 
