@@ -1,3 +1,5 @@
+# A-news-Agrregation-system
+
 This System collects the Headlines, URLs and Content of Bangladeshi newspaper 
 in both English and Bengali format. Basically we collect 6 types of news, these are Politics, 
 National, Sports, International, Entertainment and Science and Technology. These information are then 
@@ -6,4 +8,4 @@ to our website.
 We use Beautifulsoup4 for collecting news and for producing summary.
 we use NLTK module for summarizing the news content. 
 
-#Used Tools: Python, Django, Beautifulsoup4, NLTK,Bootstrap 4, HTML,CSS. 
+## Used Tools: Python, Django, Beautifulsoup4, NLTK,Bootstrap 4, HTML,CSS. 
